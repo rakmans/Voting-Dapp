@@ -19,7 +19,7 @@ cd Voting-Dapp
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install token generator.
+Use the package manager [npm](https://www.npmjs.com/) to install Voting .
 
 ```bash
 npm install
