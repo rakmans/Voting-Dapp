@@ -1,4 +1,4 @@
-# Token Generator
+# Voting
 
 Easily add your candidates and create your poll
 
